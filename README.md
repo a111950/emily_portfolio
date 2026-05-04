@@ -7,7 +7,7 @@ Hardware and software projects focused on power electronics, signal processing, 
 Emily Kim | 
 Engineering Portfolio 
 Hardware and software projects focused on power electronics, signal processing, and autonomous systems.   
-+4
+
 
 ⚡ Power Electronics & Robotics
 
