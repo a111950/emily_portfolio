@@ -9,7 +9,7 @@ While the current prototype relies on commercial off-the-shelf (COTS) ESP32 and 
 we are transitioning to a fully custom integrated electronics suite. This move reduces footprint, minimizes wiring complexity, 
 and allows for break and smooth start feature that our client asked for.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2a3a8eab-e0cf-411a-9d37-80bf9c72cc42" width="600" height = "400", alt="Commerical motor dirver board">
+  <img src="https://github.com/user-attachments/assets/2a3a8eab-e0cf-411a-9d37-80bf9c72cc42" width="600" height = "400" alt="Commerical motor dirver board">
   <br>
   <label><em>Figure 1: Client's Gait Walker </em></label>
 </p>
