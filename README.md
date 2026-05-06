@@ -15,7 +15,7 @@ I am an **Electrical Engineering & Computer Science (EECS) student at UC Berkele
 * [**Energy Forecasting**](/projects/energy-forecast): Using Python to predict electricity consumption patterns in South Korea.
 * [**AeroSpaCS Rocketry**](/projects/rocketry): Design and launch of custom-built rockets.
 * [**Heart Beat Monitor**](/projects/heart-beat-monitor.md): Measure Heart Beat Using Fourier Transform
-* [**MACD Indicator**](/projects/MACD-indicator): Trend-following momentum indicator that shows the relationship between two moving averages of a stock’s price 
+* [**MACD Indicator**](/projects/MACD-indicator.md): Trend-following momentum indicator that shows the relationship between two moving averages of a stock’s price 
 ---
 
 ## 📖 About Me
