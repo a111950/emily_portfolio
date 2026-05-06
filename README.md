@@ -3,9 +3,9 @@
 I am an **Electrical Engineering & Computer Science (EECS) student at UC Berkeley** with a passion for bridging the gap between complex hardware design and intelligent software control. 
 
 ## 🛠️ Technical Focus
-* **Hardware:** Custom PCB Design (KiCad), LTSpice Simulation, Power Electronics (BLDC Control), and Signal Processing.
-* **Embedded Systems:** Working with ESP32, Arduino Nano Every, and Raspberry Pi Pico.
-* **Software:** Python (NumPy, FBProphet), C++, and SQL.
+* **Hardware:** Custom PCB Design (KiCad), LTSpice Simulation, Power Electronics (BLDC Control), Oscilioscope, Analog Discovery2, Network Analyzer
+* **Embedded Systems:** Working with ESP32 and Raspberry Pi Pico.
+* **Software:** Python (NumPy, FBProphet), C++, Java, and SQL.
 
 ---
 
