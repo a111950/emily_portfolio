@@ -4,7 +4,7 @@ title: Gait Walker Project
 parent: Projects
 ---
 ## Project Overview
-Our team at EnableTech was tasked with optimizing a professional Gait Walker. 
+Our team at **EnableTech** was tasked with retrofitting a standard medical Gait Walker with electric motors and custom controls. 
 While the current prototype relies on commercial off-the-shelf (COTS) ESP32 and BLDC controller boards, 
 we are transitioning to a fully custom integrated electronics suite. This move reduces footprint, minimizes wiring complexity, 
 and allows for break and smooth start feature that our client asked for.
