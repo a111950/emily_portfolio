@@ -7,12 +7,21 @@ parent: Projects
 Our team at EnableTech was tasked with optimizing a professional Gait Walker. 
 While the current prototype relies on commercial off-the-shelf (COTS) ESP32 and BLDC controller boards, 
 we are transitioning to a fully custom integrated electronics suite. This move reduces footprint, minimizes wiring complexity, 
-and allows for specialized safety features tailored to the client's needs.
-<img width="3024" height="4032" alt="walker" src="https://github.com/user-attachments/assets/2a3a8eab-e0cf-411a-9d37-80bf9c72cc42" />
-This is our walker.
+and allows for break and smooth start feature that our client asked for.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2a3a8eab-e0cf-411a-9d37-80bf9c72cc42" width="600" height = "400", alt="Commerical motor dirver board">
+  <br>
+  <label><em>Figure 1: Client's Gait Walker </em></label>
+</p>
 
-<img width="3024" height="4032" alt="notcustom board" src="https://github.com/user-attachments/assets/ac1e083e-f89f-4664-8f0c-3b41d7083bca" />
-This is our motor controller.
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ac1e083e-f89f-4664-8f0c-3b41d7083bca" width="600" height = "600" alt="Commerical motor dirver board">
+  <br>
+  <label><em>Figure 1: Commercial RioRand Motor Driver Board</em></label>
+</p>
+
 
 ## Role
 As the Lead Electrical Engineer, I am responsible for the end-to-end design of the power electronics system. My primary focus is a high-performance 500W BLDC Motor Controller and a central control board. Key objectives include:
