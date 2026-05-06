@@ -18,7 +18,7 @@ I am an **Electrical Engineering & Computer Science (EECS) student at UC Berkele
 ---
 
 ## 📖 About Me
-Beyond engineering, I am bilingual in **English and Korean** and have a background in STEM tutoring. I enjoy the challenge of hardware-software integration—whether it's soldering a new board or optimizing a control loop.
+Beyond engineering, I am bilingual in **English and Korean** and have a background in STEM tutoring. I enjoy the challenge of problem-solving, whether it's soldering a new board or optimizing a control loop.
 
-* 📫 **LinkedIn:** [Insert your link]
+* 📫 **LinkedIn:** https://www.linkedin.com/in/emily-kim-997567380/
 * 🎓 **Education:** UC Berkeley, EECS (Class of 2027)
