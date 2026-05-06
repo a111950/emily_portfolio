@@ -10,8 +10,8 @@ I am an **Electrical Engineering & Computer Science (EECS) student at UC Berkele
 ---
 
 ## 🚀 Featured Projects
-* [**Gait Walker (EnableTech)**](/projects/gait-walker): Lead Electrical Engineer designing a custom 500W BLDC motor controller using the DRV8302.
-* [**Micromouse**](/projects/micromouse): Developing an autonomous maze-solving robot with a custom PI controller and sensor integration.
+* [**Gait Walker (EnableTech)**](/projects/gait-walker): (In Progress) Lead Electrical Engineer designing a custom 500W BLDC motor controller using the DRV8302.
+* [**Micromouse**](/projects/micromouse): (In Progress) Developing an autonomous maze-solving robot with a custom PI controller and sensor integration.
 * [**Energy Forecasting**](/projects/energy-forecast): Using Python to predict electricity consumption patterns in South Korea.
 * [**AeroSpaCS Rocketry**](/projects/rocketry): Design and launch of custom-built rockets.
 * [**Heart Beat Monitor**](/projects/heart-beat-monitor): Measure Heart Beat Using Fourier Transform
