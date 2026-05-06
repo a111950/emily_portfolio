@@ -1,3 +1,16 @@
 theme: jekyll-theme-minimal
-title: Emily's homepage
+title: Emily's Portfolio
 description: Bookmark this to keep an eye on my project updates!
+author: Emily
+email: emily_kim@berkeley.edu
+description: EECS Junior at UC Berkeley
+
+
+# Navigation Settings
+header_pages:
+  - about.md
+  - projects/index.md
+
+# Minima skin 
+minima:
+  skin: solarized
