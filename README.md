@@ -1,6 +1,6 @@
 # Hi, I'm Emily 👋 
 
-I am an **Electrical Engineering & Computer Science (EECS) student at UC Berkeley** with a passion for bridging the gap between complex hardware design and intelligent software control.
+I am an **Electrical Engineering & Computer Science (EECS) student at UC Berkeley** with a passion for bridging the gap between complex hardware design and intelligent software control. 
 
 ## 🛠️ Technical Focus
 * **Hardware:** Custom PCB Design (KiCad), LTSpice Simulation, Power Electronics (BLDC Control), and Signal Processing.
